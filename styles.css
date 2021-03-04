@@ -269,6 +269,14 @@ button {
   opacity: 0.15!important;
 }
 
-.op {
+.overlay {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 50%;
+  transform: translate(-50%,-50%);
 
+}
+
+.holder {
+  position: relative;
 }
